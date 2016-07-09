@@ -1,33 +1,7 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
+# res/*
+res/CMSIS-SP-00300-r4p5-00rel0/
+*.zip
 *.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
+src/Prueba01/
+src/Prueba02/Prueba02/Debug/bin/
+src/Prueba02/Prueba02/
