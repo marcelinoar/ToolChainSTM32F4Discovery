@@ -5,3 +5,5 @@ res/CMSIS-SP-00300-r4p5-00rel0/
 src/Prueba01/
 src/Prueba02/Prueba02/Debug/bin/
 src/Prueba02/Prueba02/
+src/PruebaPWM/PruebaPWM/Debug/obj/dependencies.xml
+src/PruebaPWM/PruebaPWM/

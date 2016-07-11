@@ -1,0 +1,12 @@
+## Proyectos
+
+Listado de proyectos:
+
+### Prueba PWM
+
+Arma un proyecto vacio con CooCoxIde que funciona.
+
+### STM32DiscoveryVCP-master
+
+Crea un puerto serial virtual. Enciende un led si le enviamos un 0 y lo apaga si le enviamos un 1
+
